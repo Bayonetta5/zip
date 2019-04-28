@@ -54,3 +54,10 @@ zip.dir/
 test/test.exe.vcxproj.filters
 test/test.exe.vcxproj
 test/test.exe.dir/
+
+Debug/*
+.vs/*
+*.zip
+*.pdb
+*.tlog
+**/Debug/*
